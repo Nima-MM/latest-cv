@@ -58,7 +58,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\documentclass[]{deedy-resume-reversed}
+\documentclass[]{cv}
 \usepackage{fancyhdr}
 \usepackage{fontawesome}
 \usepackage{graphicx}
@@ -108,9 +108,9 @@ Erfolgreiche Etablierung einer Webanwendung nach ISO-25010, unter anderem durch.
 % Erfolgreiche Etablierung einer Webanwendung nach ISO-25010, unter anderem durch...
 \begin{tightemize}
     \setlength{\itemsep}{2.5pt}
-\item Erstellung intuitiver, responsiver Vue.js UI-Komponenten (Dialoge etc.) nach Google MD3.
-\item Erstellung eines generischen Storemanagements mittels TypeScript/Pinia -> bessere Wartung und Erweiterung der Anwendung.
-\item Einbindung von Authentifizierung per REST und Erstellung von automatisierte Testfälle (Unit-Tests) für mehr Codequalität.
+\item Fullstack-Entwicklung agiler Webanwendungen; Aufbau reaktiver Frontends (TypeScript, Vue, HTML, CSS) und REST-APIs.
+\item Implementierung robuster Architektur-Ansätze für State-Management zur Sicherstellung hoher Skalierbarkeit und Wartbarkeit.
+\item Test-driven Development (TDD): Erstellung automatisierter Unit-Tests zur kontinuierlichen Qualitätssicherung der Services.
 \end{tightemize}
 \sectionsep
 \vspace{4pt}
@@ -124,10 +124,10 @@ Entwicklung der WebPages für die Abo-Boxen von \href{https://sugargang.com/}{\u
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
     \setlength{\itemsep}{2.5pt}
-\item Maßgeschneiderte, interaktive Slides für diverse Webshop-Bereiche via Shopify Liquid, JavaScript, HTML \& CSS; Demo-Integration im Shopify-Umfeld zur UX-Testung.
-\item Erstellung eines Grid-Layouts zur verbesserten, responsiveren Darstellung der Abo-Box-Cards.
-\item Einbidung des Shopify-CLI und Versionskontrollsystem Git zur besseren Verwaltung und Wartung der WebPages zu vorher.
-\item Konzeptionierung des UX und Digital-Commerce in agiler Zusammenarbeit mit dem Design-Team.
+\item Frontend-Entwicklung komplexer UI-Elemente und responsiver Layouts mittels moderner Web-Technologien (JavaScript, HTML, CSS).
+\item Einsatz agiler Methoden in interdisziplinären Teams zur Konzeptionierung und Umsetzung digitaler Produkte.
+\item Nutzung von Versionskontrolle (Git) und CLI-Tools zur Optimierung von Integrationsprozessen (DevOps-Praktiken).
+\item Bedarfserhebung und Optimierung in direkter Abstimmung mit Stakeholdern zur iterativen Produktverbesserung.
 \end{tightemize}
 \sectionsep
 \vspace{4pt}
@@ -138,8 +138,8 @@ Entwicklung der WebPages für die Abo-Boxen von \href{https://sugargang.com/}{\u
 \vspace{5pt}
 \begin{tightemize}
     \setlength{\itemsep}{2.5pt}
-\item Durchführung präziser Qualitätsprüfungen: Sicherstellung der Maßhaltigkeit und weiterer qualitativer Eigenschaften vor Kundenkommissionierung.
-\item Fundierte Einarbeitung in die Igus-Produktpalette mittels Katalog zur Gewährleistung der Qualitätsanforderungen.
+\item Durchführung präziser Qualitätsprüfungen und systematische Fehlerbehandlung zur Gewährleistung höchster Standards.
+\item Fundierte analytische Einarbeitung in komplexe technische Vorgaben und strikte Einhaltung von Richtlinien.
 \end{tightemize}
 \sectionsep
 
@@ -156,10 +156,10 @@ Webapplikation zur Verwaltung von Lagerbeständen und -bewegungen.
 \vspace{8pt}
 \begin{tightemize}
     \setlength{\itemsep}{2.5pt}
-\item Saubere Integration der REST Schnittstellen mittels des Axios-Clients und Authentifizierung mit Credentials und JWT.
-\item Entwurf zur Umsetzung mit UML-Diagramme, ... Erstellung eines Testfall-Katalogs für manuelles Testing.
-\item Anforderungsermittlung mittels Mind-Mapping und in agiler Absprache mit dem Backend-Developer.
-\item Projektplanung und -einrichtung anhand der ermittelten User-Stories.
+\item Fullstack-Engineering: Integration sicherer REST-APIs (JWT) und Entwicklung Backend-naher Konzepte.
+\item Konzeptionelle Softwarearchitektur (UML) und Modellierung; Fokus auf Design Patterns und sauberes Logging.
+\item Eigenverantwortliche Bedarfserhebung, Aufwandsschätzung und agile Projektplanung auf Basis von User-Stories.
+\item Einrichtung der Entwicklungsumgebung (Server/DevOps) und Erstellung von Daten-Automationsskripten.
 \end{tightemize}
 \sectionsep
 
